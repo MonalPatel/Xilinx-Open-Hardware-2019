@@ -4,8 +4,6 @@ Project name: EVOLUTION OF DEEP NEURAL NETWORK ALGORITHMS USING DYNAMIC CAMERA A
 
 Date:30 JUNE 2019
 
-Version of uploaded archive:
-
 University name:UNIVERSITY OF MONS
 
 Supervisor name:Carlos Alberto VALDERRAMA SAKUYAMA
